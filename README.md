@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NYTCEE/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/NYTCEE/LeetCode/tree/master/0274-h-index) |
+| [0313-super-ugly-number](https://github.com/NYTCEE/LeetCode/tree/master/0313-super-ugly-number) |
 | [1044-find-common-characters](https://github.com/NYTCEE/LeetCode/tree/master/1044-find-common-characters) |
 ## Hash Table
 |  |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/NYTCEE/LeetCode/tree/master/0071-simplify-path) |
 | [0886-score-of-parentheses](https://github.com/NYTCEE/LeetCode/tree/master/0886-score-of-parentheses) |
+## Math
+|  |
+| ------- |
+| [0313-super-ugly-number](https://github.com/NYTCEE/LeetCode/tree/master/0313-super-ugly-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0313-super-ugly-number](https://github.com/NYTCEE/LeetCode/tree/master/0313-super-ugly-number) |
 <!---LeetCode Topics End-->
