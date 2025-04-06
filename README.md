@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/NYTCEE/LeetCode/tree/master/0071-simplify-path) |
 | [0535-encode-and-decode-tinyurl](https://github.com/NYTCEE/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0886-score-of-parentheses](https://github.com/NYTCEE/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1044-find-common-characters](https://github.com/NYTCEE/LeetCode/tree/master/1044-find-common-characters) |
@@ -50,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/NYTCEE/LeetCode/tree/master/0071-simplify-path) |
 | [0886-score-of-parentheses](https://github.com/NYTCEE/LeetCode/tree/master/0886-score-of-parentheses) |
 <!---LeetCode Topics End-->
