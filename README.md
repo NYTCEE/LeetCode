@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/NYTCEE/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0886-score-of-parentheses](https://github.com/NYTCEE/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1044-find-common-characters](https://github.com/NYTCEE/LeetCode/tree/master/1044-find-common-characters) |
 ## Divide and Conquer
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NYTCEE/LeetCode/tree/master/0274-h-index) |
+## Stack
+|  |
+| ------- |
+| [0886-score-of-parentheses](https://github.com/NYTCEE/LeetCode/tree/master/0886-score-of-parentheses) |
 <!---LeetCode Topics End-->
