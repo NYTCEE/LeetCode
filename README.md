@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/NYTCEE/LeetCode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/NYTCEE/LeetCode/tree/master/0394-decode-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/NYTCEE/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0886-score-of-parentheses](https://github.com/NYTCEE/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1044-find-common-characters](https://github.com/NYTCEE/LeetCode/tree/master/1044-find-common-characters) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/NYTCEE/LeetCode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/NYTCEE/LeetCode/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/NYTCEE/LeetCode/tree/master/0886-score-of-parentheses) |
 ## Math
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NYTCEE/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/NYTCEE/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
