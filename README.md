@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NYTCEE/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/NYTCEE/LeetCode/tree/master/0274-h-index) |
 | [0313-super-ugly-number](https://github.com/NYTCEE/LeetCode/tree/master/0313-super-ugly-number) |
+| [0860-design-circular-queue](https://github.com/NYTCEE/LeetCode/tree/master/0860-design-circular-queue) |
 | [1044-find-common-characters](https://github.com/NYTCEE/LeetCode/tree/master/1044-find-common-characters) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/NYTCEE/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0860-design-circular-queue](https://github.com/NYTCEE/LeetCode/tree/master/0860-design-circular-queue) |
 ## Hash Function
 |  |
 | ------- |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0313-super-ugly-number](https://github.com/NYTCEE/LeetCode/tree/master/0313-super-ugly-number) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/NYTCEE/LeetCode/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/NYTCEE/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
