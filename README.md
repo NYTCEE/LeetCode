@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NYTCEE/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/NYTCEE/LeetCode/tree/master/0274-h-index) |
 | [1044-find-common-characters](https://github.com/NYTCEE/LeetCode/tree/master/1044-find-common-characters) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NYTCEE/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/NYTCEE/LeetCode/tree/master/0274-h-index) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/NYTCEE/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/NYTCEE/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
