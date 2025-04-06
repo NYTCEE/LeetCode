@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/NYTCEE/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1044-find-common-characters](https://github.com/NYTCEE/LeetCode/tree/master/1044-find-common-characters) |
 ## String
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/NYTCEE/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1044-find-common-characters](https://github.com/NYTCEE/LeetCode/tree/master/1044-find-common-characters) |
 ## Divide and Conquer
 |  |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NYTCEE/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/NYTCEE/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/NYTCEE/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
